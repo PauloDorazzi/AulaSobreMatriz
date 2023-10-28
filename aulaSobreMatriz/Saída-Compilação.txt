@@ -1,0 +1,6 @@
+﻿Compilação iniciada...
+1>------ Compilação iniciada: Projeto: aulaSobreMatriz, Configuração: Debug x64 ------
+1>aulaSobreMatriz.cpp
+1>aulaSobreMatriz.vcxproj -> C:\Users\pcbra\Documents\GitHub\AulasTesteFacul\AulaSobreMatriz\aulaSobreMatriz\x64\Debug\aulaSobreMatriz.exe
+========== Compilação: 1 bem-sucedida, 0 com falha, 0 atualizada, 0 ignorada ==========
+========== Compilação começou em 10:50 PM e levou 01,434 segundos ==========
